@@ -66,3 +66,11 @@ html{
     margin: 0 auto 30px auto;
     color: #fff;
   }
+  .navy{
+    width: 100%;
+   }
+   @media (max-width: 768px) {
+    .navy {
+        width: 90%;
+    }
+  }

@@ -87,3 +87,11 @@ html{
       margin-bottom: 30px;
     }
   }
+  .navy{
+    width: 100%;
+   }
+   @media (max-width: 768px) {
+    .navy {
+        width: 90%;
+    }
+  }
