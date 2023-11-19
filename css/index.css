@@ -143,3 +143,8 @@ html{
       width: 90%;
   }
 }
+.mid-txt{
+  background: rgba(0, 0, 0, 0.5);
+  font-family: cursive;
+  font-style: italic;
+}
